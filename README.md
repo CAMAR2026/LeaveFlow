@@ -1,16 +1,56 @@
-# React + Vite
+# LeaveFlow — Leave Management System
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+LeaveFlow is a web application designed to simplify employee leave requests and management.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+- User registration and sign-in interface
+- Employee and manager dashboards
+- Leave request management
+- Responsive user interface
+- Built with React and Tailwind CSS
 
-## React Compiler
+## Technologies Used
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- React
+- JavaScript
+- Tailwind CSS
+- Vite
 
-## Expanding the ESLint configuration
+## Getting Started
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/CAMAR2026/LeaveFlow.git
+```
+
+### 2. Enter the project folder
+
+```bash
+cd LeaveFlow
+```
+
+### 3. Install dependencies
+
+```bash
+npm install
+```
+
+### 4. Start the development server
+
+```bash
+npm run dev
+```
+
+Open the local URL displayed in your terminal.
+
+## Project Status
+
+LeaveFlow is under development. Backend authentication, authorization, and database integration can be added as the project progresses.
+
+## Author
+
+Camar Hussein
+
+GitHub: https://github.com/CAMAR2026
